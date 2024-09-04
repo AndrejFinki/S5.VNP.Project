@@ -1,2 +1,8 @@
 # S5.VNP.Project
-Напреден Проект на Тема: Анализа на Податоци од Човечки Микробиом
+
+### Authors
+- Andrej Shekerov
+- Darijan Shekerov
+
+### Used Resources
+- https://www.kaggle.com/datasets/antaresnyc/human-gut-microbiome-with-asd
